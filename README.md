@@ -50,6 +50,6 @@ This is the level of detail we should aim for in our answers.
 
 ---
 
-Let’s work towards enhancing the depth of our answers in the next batch. Quality and clarity in answers will not only help candidates but also reflect well on our training materials.
+Let’s work towards enhancing the depth of our answers. Quality and clarity in answers will not only help candidates but also reflect well on our training materials.
 
 Best regards,
